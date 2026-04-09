@@ -1,3 +1,5 @@
+![Tiny-Chick-AR ](https://github.com/user-attachments/assets/517b6794-6d10-4519-bca5-517fceb625e0)
+
 # 🐣 Tiny-Chick-AR
 
 OpenCV를 활용하여 카메라의 자세(Pose)를 추정하고, 실시간 영상 속 체스보드 위를 생동감 있게 움직이는 **3D 병아리 AR 모델**을 투영하는 증강현실(AR) 어플리케이션입니다.
